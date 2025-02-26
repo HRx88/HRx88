@@ -89,7 +89,11 @@
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email">
   </a>
 </p>
-
- ![snake gif](https://github.com/hrx88/hrx88/blob/output/github-contribution-grid-snake.svg)
-
+---
+### 🐍 GitHub Contribution Snake  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
