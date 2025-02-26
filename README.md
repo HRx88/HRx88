@@ -100,7 +100,7 @@
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrx88&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/hrx88?style=social" alt="Followers"/>
  <img src="https://visitor-badge.laobi.icu/badge?page_id=hrx88.hrx88" alt="Visitor Badge" />
+  <img src="https://img.shields.io/github/followers/hrx88?style=social" alt="Followers"/>
 </p>
 
