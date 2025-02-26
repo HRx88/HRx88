@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Press+Start+to+Play;Game+On!" alt="Game Text Animation" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I'm+Your+Name!;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I'm+HR+!;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </p>
 
 <p align="center">
