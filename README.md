@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5xaOcLwEvFOizxHVyVy/giphy.gif" alt="Pac-Man Animation" width="150" />
+  <img src="https://media.giphy.com/media/5xaOcLwEvFOizxHVyVy/giphy.gif" alt="Pac-Man Animation" width="100%" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Retro Loading Animation" width="150" />
