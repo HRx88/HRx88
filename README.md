@@ -89,3 +89,7 @@
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" alt="Email">
   </a>
 </p>
+
+ ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+
