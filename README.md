@@ -1,3 +1,4 @@
+# HRx88
 <!-- GitHub Profile README -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Press+Start+to+Play;Game+On!" alt="Game Text Animation" />
