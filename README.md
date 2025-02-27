@@ -19,9 +19,9 @@
 ---
 
 ## 🌟 About Me  
-- 🎓 Studying at **[Your School]**  
-- 🛠️ Currently working on **[Your Project]**  
-- 🌱 Learning **React, Next.js & Node.js**  
+- 🎓 Studying at **Ngee Ann Polytechnic**  
+- 🌱 Learning **React, Next.js & Node.js**
+- 🤝 Open to collaboration on **interesting projects!**  
 - 🎯 Goals: **Master Full-Stack Development**  
 - 🎮 Fun Fact: **I love gaming & hackathons!**  
 
@@ -80,13 +80,6 @@
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrx88&layout=compact&theme=radical" />
 </p>
-
----
-
-## 🚀 What I'm Doing Now  
-- 📝 Learning **React, Next.js & TypeScript**  
-- 🔭 Building **[Your Project Name]**  
-- 🤝 Open to collaboration on **interesting projects!**  
 
 ---
 
