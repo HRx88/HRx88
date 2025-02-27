@@ -83,6 +83,15 @@
 
 ---
 
+## 🎖️ Badges & Achievements  
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hrx88&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ## 🐍 GitHub Contribution Snake  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrx88/hrx88/output/github-snake-dark.svg" />
