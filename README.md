@@ -1,5 +1,4 @@
 <!-- GitHub Profile README -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Press+Start+to+Play;Game+On!" alt="Game Text Animation" />
 </p>
@@ -14,6 +13,13 @@
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Retro Loading Animation" width="150" />
 </p>
 
+## 🕹️ Player Stats
+---
+<p align="center">
+    <img src="https://img.shields.io/badge/HP-100%25-red?style=for-the-badge&logo=healthicons" alt="HP" />
+    <img src="https://img.shields.io/badge/MP-100%25-blue?style=for-the-badge&logo=magic" alt="MP" />
+    <img src="https://img.shields.io/badge/XP-9999-green?style=for-the-badge&logo=star" alt="XP" />
+</p>
 <h3 align="center">🚀 Passionate Developer | 💡 Tech Enthusiast | 🎨 UI/UX Designer</h3>
 
 ---
@@ -85,9 +91,7 @@
 
 ## 🎖️ Badges & Achievements  
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hrx88&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
-  </a>
 </p>
 
 ---
