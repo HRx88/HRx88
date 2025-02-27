@@ -13,8 +13,10 @@
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" alt="Retro Loading Animation" width="150" />
 </p>
 
-## 🕹️ Player Stats
 ---
+
+## 🕹️ Player Stats
+
 <p align="center">
     <img src="https://img.shields.io/badge/HP-100%25-red?style=for-the-badge&logo=healthicons" alt="HP" />
     <img src="https://img.shields.io/badge/MP-100%25-blue?style=for-the-badge&logo=magic" alt="MP" />
