@@ -62,6 +62,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTDB-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 ### 🛠️ Developer Tools & Applications
@@ -77,24 +79,24 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+### 🏗️ Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/Monolithic-FF6F00?style=for-the-badge&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-1976D2?style=for-the-badge&logo=microgenetics&logoColor=white" />
+</p>
 
 ---
 
 ## 🏆 GitHub Stats  
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hrx88&show_icons=true&theme=tokyonight" />
-   
-</p>
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrx88&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🎖️ Badges & Achievements  
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=hrx88&theme=onedark&row=2&column=4" alt="GitHub Trophies" />
+ 
+  <img width="100%" src="https://streak-stats.demolab.com/?user=hrx88&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
